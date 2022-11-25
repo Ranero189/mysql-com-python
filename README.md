@@ -15,3 +15,9 @@ Exercício - Sql
     prog3- alterar os dados de um aluno reprovado, passando para aprovado​
 
     prog4- excluir os registros com RA par​
+    
+NP2
+
+-Simulado
+
+-Questões resolvidas
