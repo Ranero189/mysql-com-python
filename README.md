@@ -1,6 +1,6 @@
 # mysql-com-python
 
-Exercício - Mysql
+Exercício - Sql
 
 1) Criar um banco de dados no Mysql, Aula15.​
 
@@ -8,10 +8,10 @@ Exercício - Mysql
 
 3) Em seguida criar 4 programas em Python, sendo:​
 
-  prog1- inserir 5 alunos​
+    prog1- inserir 5 alunos​
 
-  prog2- consultar (ler) os 5 registros e dizer que foi aprovado, nota >= 5 e frequência >= 75​
+    prog2- consultar (ler) os 5 registros e dizer que foi aprovado, nota >= 5 e frequência >= 75​
 
-  prog3- alterar os dados de um aluno reprovado, passando para aprovado​
+    prog3- alterar os dados de um aluno reprovado, passando para aprovado​
 
-  prog4- excluir os registros com RA par​
+    prog4- excluir os registros com RA par​
